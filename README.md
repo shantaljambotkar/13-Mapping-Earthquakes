@@ -18,3 +18,8 @@ Mapbox provides custom maps for websites and applications such as Strava, Facebo
 Branching makes it possible to create an isolated environment when creating a new feature, or to correct an issue in the main code no matter the scope.
 
 Creating branches off the main branch is where Git shines. A branch allows you to make changes to the main code "off to the side," like a branch on a tree. Once the code on the branch has been reviewed and approved, only then can the branch be merged into the main branch. This ensures that the main branch always contains production-quality code.
+
+### Commands for creating a branch
+
+
+### Commands for updating pull request 

@@ -23,3 +23,7 @@ Creating branches off the main branch is where Git shines. A branch allows you t
 
 
 ### Commands for updating pull request 
+
+## GeoJSON
+
+GeoJSON data consists of a single object, which can be represented by a geometry object, features object, or collection of features (FeatureCollection object). Let's review these GeoJSON objects in more detail.

@@ -26,4 +26,4 @@ Creating branches off the main branch is where Git shines. A branch allows you t
 
 ## GeoJSON
 
-GeoJSON data consists of a single object, which can be represented by a geometry object, features object, or collection of features (FeatureCollection object). Let's review these GeoJSON objects in more detail.
+GeoJSON data consists of a single object, which can be represented by a geometry object, features object, or collection of features (FeatureCollection object). 
